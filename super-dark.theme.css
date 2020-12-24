@@ -1,0 +1,21 @@
+//META{"name":"Super Dark","description":"custom theme made by me","author":"julio_","version":"1.0.0"}*//
+.theme-dark{
+    --header-primary: white;
+    --header-secondary: white;
+    --text-normal: white;
+    --text-muted: #72767d;
+    --text-link: #00ecff;
+    --channels-default: #8e9297;
+    --interactive-normal: white;
+    --interactive-hover: #717171;
+    --interactive-active: #fff;
+    --interactive-muted: #4f545c;
+    --background-primary: black;
+    --background-secondary: black;
+    --background-secondary-alt: black;
+    --background-tertiary: #202225;
+    --background-accent: #4f545c;
+    --background-floating: #18191c;
+    --background-modifier-hover: rgba(219,219,249,0.16);
+    --background-modifier-selected: rgba(219,219,249,0.20);
+    }
